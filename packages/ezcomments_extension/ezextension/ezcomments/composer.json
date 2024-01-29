@@ -1,8 +1,8 @@
 {
-    "name": "ezsystems/ezcomments-ls-extension",
-    "description": "eZ Publish Legacy comments extension (deprecated)",
+    "name": "se7enxweb/ezcomments",
+    "description": "eZ Publish Legacy comments extension (alternative; stores comments seperate from ezpublish for easy usage)",
     "type": "ezpublish-legacy-extension",
-    "license": "GPL-2.0",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "eZ Publish dev-team & eZ Community",
@@ -11,12 +11,12 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "ezsystems/ezpublish-legacy-installer": "*"
+        "se7enxweb/ezpublish-legacy-installer": "*"
     },
     "suggest": {
-        "ezsystems/ezwebin-ls-extension": "~5.3",
-        "ezsystems/ezdemo-ls-extension": "~5.3",
-        "ezsystems/ezflow-ls-extension": "~5.3"
+        "se7enxweb/ezwebin": "~6.0.0",
+        "se7enxweb/ezdemo": "~6.0.0",
+        "se7enxweb/ezflow": "~6.0.0"
     },
     "extra": {
         "ezpublish-legacy-extension-name": "ezcomments"
