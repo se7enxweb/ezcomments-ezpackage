@@ -1,40 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension name="ezcomments">
+  <file name="LICENSE" md5sum="2c1af72526b362be311b242246427c37"/>
+  <file name="README" md5sum="d41d8cd98f00b204e9800998ecf8427e"/>
   <file name="classes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="ezcomaddcommenttool.php" path="/classes" md5sum="24ca7f8eb86136451ca3eae9d74b32a6"/>
-  <file name="ezcomcomment.php" path="/classes" md5sum="262829b0b15c18b39e645a804ae4a04f"/>
-  <file name="ezcomcommentcommonmanager.php" path="/classes" md5sum="8e6a07ad26d0469d1001bed3ebf615f0"/>
-  <file name="ezcomcommentmanager.php" path="/classes" md5sum="3cd939ac501ca7b8e96f14b17194eee1"/>
-  <file name="ezcomcookiemanager.php" path="/classes" md5sum="8952e5abb35fa54851bcd48388a5482b"/>
-  <file name="ezcomeditcommenttool.php" path="/classes" md5sum="82d19bbe66de0e54a9804e6e7b5afec6"/>
-  <file name="ezcomformtool.php" path="/classes" md5sum="c194346dfb509020ca3c5f1abbc99fa7"/>
-  <file name="ezcomfunctioncollection.php" path="/classes" md5sum="5089a425e6265bc0df2a937b20b4e7aa"/>
-  <file name="ezcomnotifcationmanager.php" path="/classes" md5sum="3b5805150f9587c3f459959c49a04216"/>
-  <file name="ezcomnotification.php" path="/classes" md5sum="02a8818a18c2245eaa922d1fccd37bf2"/>
-  <file name="ezcomnotificationemailmanager.php" path="/classes" md5sum="94a90f51e0ab9eb00c48df84501b1a03"/>
-  <file name="ezcompermission.php" path="/classes" md5sum="1de7c9ec30bc462161ab14c0a9363681"/>
-  <file name="ezcomposthelper.php" path="/classes" md5sum="acfcc69b37f1c10a6b65e1973444204b"/>
-  <file name="ezcomserverfunctions.php" path="/classes" md5sum="5b5960aa634084b8a794c6368e429e72"/>
-  <file name="ezcomsubscriber.php" path="/classes" md5sum="c48e235a782051f5e317b0ab3b103c4c"/>
-  <file name="ezcomsubscription.php" path="/classes" md5sum="d9f325e452f2cb1d58d853fbd8f35421"/>
-  <file name="ezcomsubscriptionmanager.php" path="/classes" md5sum="04d757a2ae6e16fa48cf9b52e51f72b4"/>
-  <file name="ezcomutility.php" path="/classes" md5sum="50598ea944ec60e5a93b8f3bfdf207ce"/>
-  <file name="recaptchalib.php" path="/classes" md5sum="b206569ed973563107c29902ca7ab35b"/>
+  <file name="ezcomaddcommenttool.php" path="/classes" md5sum="7dd6e7c08b2c27ac4ff2effc67d097db"/>
+  <file name="ezcomcomment.php" path="/classes" md5sum="1a4a91286c4c15df50986321af0fec90"/>
+  <file name="ezcomcommentcommonmanager.php" path="/classes" md5sum="e5a17037eec75c39ccda6e1ec037a434"/>
+  <file name="ezcomcommentmanager.php" path="/classes" md5sum="2a894cba6c5f962b3399666ea7ec3de1"/>
+  <file name="ezcomcookiemanager.php" path="/classes" md5sum="0b4a36ea1279c780f95eec0ddb1412d7"/>
+  <file name="ezcomeditcommenttool.php" path="/classes" md5sum="4b3493485697166415fc73097d97851e"/>
+  <file name="ezcomformtool.php" path="/classes" md5sum="a45a321ff4068b30dddbd83c80c80ce2"/>
+  <file name="ezcomfunctioncollection.php" path="/classes" md5sum="986c2ce0104e5a7b0b9320c70da3172c"/>
+  <file name="ezcomnotifcationmanager.php" path="/classes" md5sum="7189282c509373ad5593bfa31503941d"/>
+  <file name="ezcomnotification.php" path="/classes" md5sum="9c559a247002fa9df8654aabe3a2a080"/>
+  <file name="ezcomnotificationemailmanager.php" path="/classes" md5sum="0643b0f332e46bb6698efe46219e9a45"/>
+  <file name="ezcompermission.php" path="/classes" md5sum="e067d1f72c9d4d690e9355e17adb5af8"/>
+  <file name="ezcomposthelper.php" path="/classes" md5sum="432515955187e3855d331f7becd9e874"/>
+  <file name="ezcomserverfunctions.php" path="/classes" md5sum="4c9e66c636100d298dc3034b49903de6"/>
+  <file name="ezcomsubscriber.php" path="/classes" md5sum="91355a01d1a4398d8f607abfd299912b"/>
+  <file name="ezcomsubscription.php" path="/classes" md5sum="ac33ca9eb2877a1344356081db3d8f22"/>
+  <file name="ezcomsubscriptionmanager.php" path="/classes" md5sum="b428efde352aaa1f1c7faff121f3fb58"/>
+  <file name="ezcomutility.php" path="/classes" md5sum="f4c959cebc2d1c22fd4f88271f9c6a6a"/>
+  <file name="recaptchalib.php" path="/classes" md5sum="222ea3a305c32848e55e0137c2f6b514"/>
+  <file name="composer.json" md5sum="c907669d8b88255ac23750ecb4703332"/>
   <file name="cronjobs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="ezcomcleanupsubscription.php" path="/cronjobs" md5sum="a9d4d2c54972b7925742ff6621327fd6"/>
-  <file name="ezcomhandlenotification.php" path="/cronjobs" md5sum="dfadc9430a1f90c660f0729c19d27a41"/>
+  <file name="ezcomcleanupsubscription.php" path="/cronjobs" md5sum="a1c9c24ae0fd7393f9f5c30cfff3ea28"/>
+  <file name="ezcomhandlenotification.php" path="/cronjobs" md5sum="e777a8bbb8338ae0801b20ab62c37121"/>
   <file name="datatypes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="ezcomcomments" path="/datatypes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="ezcomcommentstype.php" path="/datatypes/ezcomcomments" md5sum="3d839bb96daa53546ffa5ec80a546672"/>
+  <file name="ezcomcommentstype.php" path="/datatypes/ezcomcomments" md5sum="f00a436183c3d56ec3e6ee311ea21918"/>
   <file name="design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="admin2" path="/design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="templates" path="/design/admin2" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="comment" path="/design/admin2/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="list.tpl" path="/design/admin2/templates/comment" md5sum="81f74532c5e49d5ceb95d44de564a570"/>
-  <file name="removecomments.tpl" path="/design/admin2/templates/comment" md5sum="afb5dc74cd8cd8a4b9a990e3f73092ae"/>
-  <file name="parts" path="/design/admin2/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="comments" path="/design/admin2/templates/parts" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="menu.tpl" path="/design/admin2/templates/parts/comments" md5sum="11c027523fd3ca236c9ef49bbba062e3"/>
+  <file name="admin" path="/design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="templates" path="/design/admin" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="comment" path="/design/admin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="list.tpl" path="/design/admin/templates/comment" md5sum="81f74532c5e49d5ceb95d44de564a570"/>
+  <file name="removecomments.tpl" path="/design/admin/templates/comment" md5sum="afb5dc74cd8cd8a4b9a990e3f73092ae"/>
+  <file name="parts" path="/design/admin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="comments" path="/design/admin/templates/parts" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="menu.tpl" path="/design/admin/templates/parts/comments" md5sum="a8cd5e563f9cb6c3d0426721ae9b5e5a"/>
   <file name="ezwebin" path="/design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="templates" path="/design/ezwebin" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="user" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
@@ -48,15 +51,15 @@
   <file name="class" path="/design/standard/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="datatype" path="/design/standard/templates/class" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="edit" path="/design/standard/templates/class/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="ezcomcomments.tpl" path="/design/standard/templates/class/datatype/edit" md5sum="3e06056d9b12e93d37b6460ad92cff13"/>
+  <file name="ezcomcomments.tpl" path="/design/standard/templates/class/datatype/edit" md5sum="c6245b01e5bfb40f0a1e773c8c34f464"/>
   <file name="view" path="/design/standard/templates/class/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="ezcomcomments.tpl" path="/design/standard/templates/class/datatype/view" md5sum="d41d8cd98f00b204e9800998ecf8427e"/>
   <file name="comment" path="/design/standard/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="activate.tpl" path="/design/standard/templates/comment" md5sum="cf7e24215eeeaa9c2d3973b279401163"/>
-  <file name="add.tpl" path="/design/standard/templates/comment" md5sum="10a38b037f402d35019ce6150cd16eba"/>
-  <file name="add_comment.tpl" path="/design/standard/templates/comment" md5sum="5c4191f95940ea23d672607f32d21288"/>
-  <file name="delete.tpl" path="/design/standard/templates/comment" md5sum="abc8e4d7a7796266ab5ddccd8180dea5"/>
-  <file name="edit.tpl" path="/design/standard/templates/comment" md5sum="27931f77bc9347d892a57df21599ab3c"/>
+  <file name="activate.tpl" path="/design/standard/templates/comment" md5sum="4a44b8ba1a58fc1761ad230e5381655b"/>
+  <file name="add.tpl" path="/design/standard/templates/comment" md5sum="db33fb7c7c2395aaf9ccaef43b3a7cb1"/>
+  <file name="add_comment.tpl" path="/design/standard/templates/comment" md5sum="7c9621aeb31d2a33f0264c7c616d9d8e"/>
+  <file name="delete.tpl" path="/design/standard/templates/comment" md5sum="83a5c90308c89172af3734d9ad25511b"/>
+  <file name="edit.tpl" path="/design/standard/templates/comment" md5sum="ad370eefd1b35d3c4648314a7ceddb1e"/>
   <file name="notification_activation_body.tpl" path="/design/standard/templates/comment" md5sum="a58e02f964396f89065549480b6f0260"/>
   <file name="notification_activation_subject.tpl" path="/design/standard/templates/comment" md5sum="d60fc806cb5e324852700a1d13de3a91"/>
   <file name="notification_body.tpl" path="/design/standard/templates/comment" md5sum="efb6dbb21ea5a3fec181583bc4150f4c"/>
@@ -76,74 +79,83 @@
   <file name="view" path="/design/standard/templates/content/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="ezcomcomments.tpl" path="/design/standard/templates/content/datatype/view" md5sum="ec2c85f9c9b263596a37d8dfd2c554a0"/>
   <file name="doc" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="changelog.txt" path="/doc" md5sum="f61970be192b459d076148550fbbc822"/>
-  <file name="ezcomments_brief_class_diagram.png" path="/doc" md5sum="8ae2fd3f156caf078b29fb2a07e4ee34"/>
   <file name="FAQ" path="/doc" md5sum="ea5fe456b1f67c9673c030402f8312d4"/>
   <file name="INSTALL" path="/doc" md5sum="93957a3df81adfa19fc02916f14b94be"/>
-  <file name="extension.xml" md5sum="c8ab4e78747edb86c47f9442b1d1a9d5"/>
-  <file name="ezinfo.php" md5sum="b97e75c13ace2843fb33041c0a91e1cc"/>
-  <file name="LICENSE" md5sum="0636e73ff0215e8d672dc4c32c317bb3"/>
+  <file name="changelog.txt" path="/doc" md5sum="f61970be192b459d076148550fbbc822"/>
+  <file name="ezcomments_brief_class_diagram.png" path="/doc" md5sum="8ae2fd3f156caf078b29fb2a07e4ee34"/>
+  <file name="extension.xml" md5sum="ae512a9a43d4acec87e450687efd4c29"/>
+  <file name="ezinfo.php" md5sum="07f3c9870966e3a4ad36d39abad9a43d"/>
   <file name="modules" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="comment" path="/modules" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="activate.php" path="/modules/comment" md5sum="9234eaeaed2728ab5387d1d71cba06dc"/>
-  <file name="add.php" path="/modules/comment" md5sum="ce17bf2ae13ae1d3dd77f1e70fa4f91d"/>
-  <file name="delete.php" path="/modules/comment" md5sum="70f25070fd9a518366bcff4285e358c9"/>
-  <file name="edit.php" path="/modules/comment" md5sum="4358bb8beb50f9bac051cfb0a82feb84"/>
-  <file name="function_definition.php" path="/modules/comment" md5sum="8a7e2333a138e9d29ceab46c45d4349e"/>
-  <file name="list.php" path="/modules/comment" md5sum="9c0ef05986933f87f4bcb408990b38cb"/>
-  <file name="module.php" path="/modules/comment" md5sum="41b432c0609b934bfe6f06c75875f8ea"/>
-  <file name="removecomments.php" path="/modules/comment" md5sum="3c79df3b775317d3219cfec83bdca035"/>
-  <file name="setting.php" path="/modules/comment" md5sum="e45fc75d692613ed1c6be35ed321ad3f"/>
-  <file name="view.php" path="/modules/comment" md5sum="46a297797bbdc21f99933d7ef418dd49"/>
-  <file name="README" md5sum="d41d8cd98f00b204e9800998ecf8427e"/>
+  <file name="activate.php" path="/modules/comment" md5sum="94265f0408585c6f05e5694883b1cebe"/>
+  <file name="add.php" path="/modules/comment" md5sum="d2db799b0391909a5bacc10c73c3ba20"/>
+  <file name="delete.php" path="/modules/comment" md5sum="f78039ae7ed2f2a11a5a22372f3c6584"/>
+  <file name="edit.php" path="/modules/comment" md5sum="ab10a9d4da49a884be64c3dce05fec20"/>
+  <file name="function_definition.php" path="/modules/comment" md5sum="f6b60fa69993eb6a169bc6e9b597cc6c"/>
+  <file name="list.php" path="/modules/comment" md5sum="b54a5f1b7f25a7a9ac7b5ab42284e108"/>
+  <file name="module.php" path="/modules/comment" md5sum="c2d8cb126771bb38f571d4f3e9085860"/>
+  <file name="removecomments.php" path="/modules/comment" md5sum="4550bc1fa523007a1c5038626a944a5b"/>
+  <file name="setting.php" path="/modules/comment" md5sum="9a0d7753917cce87735b698911c6dd2b"/>
+  <file name="view.php" path="/modules/comment" md5sum="614bb934facc7647ba9b48381ab5d04a"/>
   <file name="settings" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="content.ini.append.php" path="/settings" md5sum="09f1730f48d10a24986e74a239ac8310"/>
   <file name="cronjob.ini.append.php" path="/settings" md5sum="7684b96dad056d3774a868ab4ac26040"/>
   <file name="debug.ini.apppend.php" path="/settings" md5sum="f40590a27129f79824b4968833577015"/>
   <file name="design.ini.append.php" path="/settings" md5sum="879dc3535eee0f7ec0760626d5e14912"/>
-  <file name="ezcomments.ini.append.php" path="/settings" md5sum="33f007d36d690b0ab1a69af6b1ea2c16"/>
+  <file name="ezcomments.ini.append.php" path="/settings" md5sum="a13b39a72743d7d234a4d053774a3a23"/>
   <file name="ezjscore.ini.append.php" path="/settings" md5sum="f4da21ae91ea310701537d961f0e7d75"/>
-  <file name="menu.ini.append.php" path="/settings" md5sum="96b54a29372abad3484e8f5a804aee01"/>
+  <file name="menu.ini.append.php" path="/settings" md5sum="ffb970ff945ea25825148d5fb6e11a9e"/>
   <file name="module.ini.append.php" path="/settings" md5sum="3e321f9cac90c655c6098973c9252d81"/>
   <file name="site.ini.append.php" path="/settings" md5sum="b20fab60a67bf462ffdd0b5def4919e3"/>
   <file name="share" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="db_schema.dba" path="/share" md5sum="87d8a78cfe7dd2fa512b563581206fa1"/>
+  <file name="db_schema.dba" path="/share" md5sum="082d0a78b89a00f25c222d410b9d4930"/>
   <file name="sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="mysql" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="mysql.sql" path="/sql/mysql" md5sum="cd0afdc1bf2ac4c26a3b9c93caa5ddd3"/>
+  <file name="schema.sql" path="/sql/mysql" md5sum="641a8ebec17736afbce7ba4db955d14c"/>
   <file name="oracle" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="oracle.sql" path="/sql/oracle" md5sum="e4f3e69a9bc21df48174ecbbe8efecd4"/>
+  <file name="schema.sql" path="/sql/oracle" md5sum="f065ed03371372850f6dd24b083ed74d"/>
   <file name="postgresql" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="postgresql.sql" path="/sql/postgresql" md5sum="bc1467a295c01b88f909cba87e83a970"/>
+  <file name="schema.sql" path="/sql/postgresql" md5sum="3b361f5033a66e4c1ec44319a99a6803"/>
   <file name="tests" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="ezcomcomment_test.php" path="/tests" md5sum="27b37897863f037aa9da0ea596537dad"/>
-  <file name="ezcomcommentmanager_test.php" path="/tests" md5sum="cfe7620fcc93f0a6e39023533bfaa541"/>
-  <file name="ezcomnotification_test.php" path="/tests" md5sum="01fe067fbe202025f24d6bf9335067ea"/>
-  <file name="ezcomnotificationmanager_test.php" path="/tests" md5sum="78c3a5779f1d7f563952254bba1bcbdb"/>
-  <file name="ezcomsubscriber_test.php" path="/tests" md5sum="5bab101032bdba60b3b5453b54efb71e"/>
-  <file name="ezcomsubscription_test.php" path="/tests" md5sum="299b6efef2b380a9d4a05c4150cff553"/>
-  <file name="ezcomsubscriptionmanager_test.php" path="/tests" md5sum="03284d7e437e6da84a5bb986363b544e"/>
-  <file name="ezcomutility_test.php" path="/tests" md5sum="d5ce149a4bfc184ae10ad53d007558ef"/>
-  <file name="suite.php" path="/tests" md5sum="04c106378d4cda3fe1ec6ba48eca7d62"/>
+  <file name="ezcomcomment_test.php" path="/tests" md5sum="a8fa9156e12034082a00985e11d22ca2"/>
+  <file name="ezcomcommentmanager_test.php" path="/tests" md5sum="02661d7d8099ae84a160a03de28220bf"/>
+  <file name="ezcomnotification_test.php" path="/tests" md5sum="2822b2a2f7a1edcc91217484ddf7a781"/>
+  <file name="ezcomnotificationmanager_test.php" path="/tests" md5sum="77eb4b95e34560d9df4396e18895f064"/>
+  <file name="ezcomsubscriber_test.php" path="/tests" md5sum="c1b0021d1a6e352b876fa7568408ccb0"/>
+  <file name="ezcomsubscription_test.php" path="/tests" md5sum="04c2651a0d6905a4516265c91cbedc8a"/>
+  <file name="ezcomsubscriptionmanager_test.php" path="/tests" md5sum="6c328b496ac599421fbe74784d3e10b2"/>
+  <file name="ezcomutility_test.php" path="/tests" md5sum="ea69885d0f92d9a0169fba269fa1abac"/>
+  <file name="suite.php" path="/tests" md5sum="30bbfb0ce8faca83bed82855f88b3a59"/>
   <file name="translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="cat-ES" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/cat-ES" md5sum="cb36260de13eeb7f8769459e1f77d495"/>
+  <file name="translation.ts" path="/translations/cat-ES" md5sum="c12d58517b468057fc0c8d791379e658"/>
   <file name="chi-CN" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/chi-CN" md5sum="a4073a8fa2f140ea60908b9a66f51673"/>
+  <file name="translation.ts" path="/translations/chi-CN" md5sum="c0bb9bca84e0f796504b18ba8348afc4"/>
   <file name="cro-HR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/cro-HR" md5sum="740521be1f102837534ec3f3aa9141b0"/>
+  <file name="translation.ts" path="/translations/cro-HR" md5sum="d1656a09eed8a28027e7689a1eca0f94"/>
   <file name="esl-ES" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/esl-ES" md5sum="305895b553387c2cb7ef5edf85f2486f"/>
+  <file name="translation.ts" path="/translations/esl-ES" md5sum="a8ebfeb4a190a3451a81d6d8d5f54fc5"/>
   <file name="fre-FR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/fre-FR" md5sum="7a011a1ad4472b087751a6bd823ac842"/>
+  <file name="translation.ts" path="/translations/fre-FR" md5sum="6535f25136b9f0a77e4df0b93ad8ae8b"/>
   <file name="ger-DE" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/ger-DE" md5sum="aa773a569cddf112f908dcead2e626e6"/>
+  <file name="translation.ts" path="/translations/ger-DE" md5sum="b8ed01a66105aac984f4b52aa65b3a75"/>
   <file name="ita-IT" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/ita-IT" md5sum="4c8304803cdf4140ad1f5e9b61ee3ca2"/>
+  <file name="translation.ts" path="/translations/ita-IT" md5sum="0f5da20f3a34bd36e35851f7af9ab003"/>
   <file name="jpn-JP" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/jpn-JP" md5sum="c0bd910336dab232485d2b932dd67970"/>
+  <file name="translation.ts" path="/translations/jpn-JP" md5sum="906a20269eea3461bc8fdbfbfe11d7aa"/>
   <file name="por-BR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/por-BR" md5sum="67920ed04be79bef89ea19a0eb42f08e"/>
+  <file name="translation.ts" path="/translations/por-BR" md5sum="36c091637bf0f92a7058cbcd3b66b0fe"/>
   <file name="untranslated" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="translation.ts" path="/translations/untranslated" md5sum="db0dc74249c74c354527ad3490c20c09"/>
+  <file name="translation.ts" path="/translations/untranslated" md5sum="450edaeadb4e2f1de65f54b5eb3c72d4"/>
+  <file name="update" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="database" path="/update" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="mysql" path="/update/database" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="5.0" path="/update/database/mysql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="dbupdate-1.4.0-to-5.0.0.sql" path="/update/database/mysql/5.0" md5sum="91ae3ec2d42015c231b8f102ad1c7b46"/>
+  <file name="oracle" path="/update/database" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="5.0" path="/update/database/oracle" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="dbupdate-1.4.0-to-5.0.0.sql" path="/update/database/oracle/5.0" md5sum="9327d2749dc5a891df47216df9c7615d"/>
+  <file name="postgresql" path="/update/database" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="5.0" path="/update/database/postgresql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="dbupdate-1.4.0-to-5.0.0.sql" path="/update/database/postgresql/5.0" md5sum="683261e69adba5e219c6360e8ecc414e"/>
 </extension>
