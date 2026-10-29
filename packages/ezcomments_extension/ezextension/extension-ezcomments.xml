@@ -83,8 +83,8 @@
   <file name="INSTALL" path="/doc" md5sum="93957a3df81adfa19fc02916f14b94be"/>
   <file name="changelog.txt" path="/doc" md5sum="f61970be192b459d076148550fbbc822"/>
   <file name="ezcomments_brief_class_diagram.png" path="/doc" md5sum="8ae2fd3f156caf078b29fb2a07e4ee34"/>
-  <file name="extension.xml" md5sum="ae512a9a43d4acec87e450687efd4c29"/>
-  <file name="ezinfo.php" md5sum="07f3c9870966e3a4ad36d39abad9a43d"/>
+  <file name="extension.xml" md5sum="bafef11be3157e29fca3895585e7b943"/>
+  <file name="ezinfo.php" md5sum="269b9e24b9ef00c79cb81f09112098f2"/>
   <file name="modules" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="comment" path="/modules" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="activate.php" path="/modules/comment" md5sum="94265f0408585c6f05e5694883b1cebe"/>
